@@ -1,0 +1,23 @@
+name: dimes
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=2
+- basemap
+- cartopy
+- cmocean
+- gsw
+- ipython
+- matplotlib
+- netcdf4
+- numpy
+- ocean
+- pandas
+- pip
+- pycwt
+- pymc
+- scipy
+- seawater
+- tabulate
+- xarray
