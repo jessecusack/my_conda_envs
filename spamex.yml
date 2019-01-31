@@ -8,6 +8,7 @@ dependencies:
 - cmocean
 - gsw
 - ipython
+- ipykernel
 - jupyter
 - matplotlib
 - netcdf4

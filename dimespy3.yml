@@ -1,9 +1,9 @@
-name: dimes
+name: dimespy3
 channels:
 - conda-forge
 - defaults
 dependencies:
-- python=2
+- python=3
 - basemap
 - cartopy
 - cmocean
