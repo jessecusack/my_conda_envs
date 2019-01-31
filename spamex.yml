@@ -7,8 +7,8 @@ dependencies:
 - cartopy
 - cmocean
 - gsw
-- ipython
 - ipykernel
+- ipython
 - jupyter
 - matplotlib
 - netcdf4
@@ -16,6 +16,7 @@ dependencies:
 - oceans
 - pandas
 - pip
+- pyqt
 - scipy
 - seawater
 - xarray
