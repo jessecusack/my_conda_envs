@@ -9,3 +9,7 @@ dependencies:
   - jupyter
   - numpy
   - pip
+  - jupyterlab
+  - jupytext
+  - black
+  - isort
