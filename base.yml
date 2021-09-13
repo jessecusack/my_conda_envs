@@ -4,12 +4,14 @@ channels:
   - defaults
 dependencies:
   - python=3
-  - flake8
-  - ipython
-  - jupyter
-  - numpy
   - pip
-  - jupyterlab
-  - jupytext
+  - ipython
+  - cookiecutter
+  - flake8
   - black
   - isort
+  - jupyter
+  - jupyterlab
+  - jupytext
+  - jupyterlab-system-monitor
+  - jupyterlab-spellchecker
