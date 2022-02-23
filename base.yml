@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3
+  - mamba
   - pip
   - ipython
   - cookiecutter
@@ -15,3 +16,4 @@ dependencies:
   - jupytext
   - jupyterlab-system-monitor
   - jupyterlab-spellchecker
+  - jupyterlab-git
