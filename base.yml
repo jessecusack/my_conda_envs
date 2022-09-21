@@ -18,3 +18,4 @@ dependencies:
   - jupyterlab-system-monitor
   - jupyterlab-spellchecker
   - jupyterlab-git
+  - jupyter-forward
