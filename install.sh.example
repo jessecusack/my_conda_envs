@@ -1,0 +1,8 @@
+#!/bin/bash
+# Needs fixing!!!!
+install () {
+	source $CONDA_PREFIX/etc/profile.d/conda.sh
+	conda env create -f FILENAME
+	conda activate ENVNAME (extracted from file)
+	 python -m ipykernel install --user --name ENVNAME
+}
