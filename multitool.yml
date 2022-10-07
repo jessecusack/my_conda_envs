@@ -17,6 +17,7 @@ dependencies:
 - geopandas
 - scipy
 - xarray
+- tqdm
 - dask
 - bottleneck
 - rioxarray
