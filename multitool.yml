@@ -11,12 +11,16 @@ dependencies:
 - ipython
 - matplotlib
 - netcdf4
+- awkward
+- utm
 - numpy
 - oceans
 - pandas
 - geopandas
 - scipy
 - xarray
+- xmitgcm
+- xgcm
 - tqdm
 - dask
 - bottleneck
