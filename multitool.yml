@@ -14,6 +14,7 @@ dependencies:
 - awkward
 - utm
 - numpy
+- statsmodels
 - oceans
 - pandas
 - geopandas
